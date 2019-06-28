@@ -23,7 +23,6 @@ app.start = function() {
   });
 };
 
-
 boot(app, __dirname, function(err) {
   if (err) throw err;
 
